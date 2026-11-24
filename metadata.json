@@ -1,0 +1,6 @@
+{
+  "name": "TaskLedger — Smart To-Do List",
+  "description": "A responsive, persistent Smart To-Do List dashboard with full CRUD operations, search, filtering, sorting, and LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
